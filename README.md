@@ -17,7 +17,14 @@ import  html and gen design modularly
 https://github.com/microsoft/AdaptiveCards/issues/8944
 
 
-## basic components
+## basics
+
+### components
+
+https://learn.microsoft.com/en-us/adaptive-cards/rendering-cards/implement-a-renderer
+
+https://adaptivecards.io/schemas/1.2.0/adaptive-card.json
+
 
 https://adaptivecards.io/explorer/TextBlock.html
 
