@@ -2,7 +2,7 @@
 
 website have multiple blocks and sections already.right now we can design in figma and translate to html,but when contents change you need manually edit html or client /server code like ts whenever you use vue react astro  nextjs or else.
 
-if we can make further step ,integrate with this translated html  to adaptivecards, separate card template and card data,everytime I want to change ,edit the json backend 
+if we can make further step ,integrate with this translated html  to adaptivecards, separate card template and card data,everytime I want to change ,edit the json backend.you can have different data json for diff user to run ab test
 
 
 
