@@ -1,3 +1,9 @@
+# build beautiful email marketing in json 
+
+https://learn.microsoft.com/zh-cn/training/modules/adaptive-cards-create-engaging-messages/5-exercise-outlook-actionable-messages
+
+
+
 # build-website-in-json
 
 website have multiple blocks and sections already.right now we can design in figma and translate to html,but when contents change you need manually edit html or client /server code like ts whenever you use vue react astro  nextjs or else.
