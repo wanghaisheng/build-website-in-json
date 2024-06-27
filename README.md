@@ -2,6 +2,10 @@
 
 https://learn.microsoft.com/zh-cn/training/modules/adaptive-cards-create-engaging-messages/5-exercise-outlook-actionable-messages
 
+https://github.com/dittofeed/dittofeed
+
+https://github.com/mettle/sendportal
+
 
 
 # build-website-in-json
