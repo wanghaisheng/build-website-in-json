@@ -37,7 +37,8 @@ sample output html
 </div></div></div>
 ```
 
-sample schema  '''
+sample schema  
+```
 {
   "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
   "type": "AdaptiveCard",
@@ -72,7 +73,6 @@ sample schema  '''
     }
   ]
 }
-
 ```
 
 
