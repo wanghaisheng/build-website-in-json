@@ -21,6 +21,9 @@ https://github.com/microsoft/AdaptiveCards/issues/8944
 
 ### components
 
+https://adaptivecards.io/
+
+
 https://learn.microsoft.com/en-us/adaptive-cards/rendering-cards/implement-a-renderer
 
 https://adaptivecards.io/schemas/1.2.0/adaptive-card.json
