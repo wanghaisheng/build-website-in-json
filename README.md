@@ -1,4 +1,22 @@
+## clone website/design to layout template 
+
+* https://github.com/yagudaev/figma-to-json
+
+
+Web Code Generation Generate Web Code (HTML + CSS) from the Input GUI Image
+
+https://github.com/MulongXie/UIED
+
+http://www.uied.online/
+
+## gen json from llm 
+
+
+##  feed json from step 1 template to render html
+
+
 # build beautiful email marketing in json 
+
 
 https://learn.microsoft.com/zh-cn/training/modules/adaptive-cards-create-engaging-messages/5-exercise-outlook-actionable-messages
 
